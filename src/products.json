@@ -1,0 +1,24 @@
+{
+	"products": [
+		{
+			"store": "boots",
+			"items": [
+				"https://www.boots.com/cuticura-total-advanced-defence-hand-gel-100ml-10218548",
+				"https://www.boots.com/boots-aloe-vera-antibacterial-hand-gel-50ml-10249746",
+				"https://www.boots.com/carex-moisture-plus-hand-gel-50ml-10261539p",
+				"https://www.boots.com/cuticura-original-anti-bacterial-hand-gel-100ml-crisp-and-fresh-10203701"
+			]
+		},
+		{
+			"store": "superdrug",
+			"items": [
+				"729255",
+				"729268",
+				"729274",
+				"729266",
+				"655550",
+				"779931"
+			]
+		}
+	]
+}
